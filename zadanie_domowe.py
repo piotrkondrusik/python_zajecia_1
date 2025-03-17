@@ -4,7 +4,7 @@ def zadanie_domowe():
     while True:
         print("\nMenu:")
         print("1 – Dodaj element do listy")
-        print("2 – Wypisz listę ")
+        print("2 – Wypisz listę")
         print("3 – Posortuj listę rosnąco")
         print("4 - Posortuj listę malejąco")
         print("5 – Zakończ")
