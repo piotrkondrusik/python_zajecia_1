@@ -21,10 +21,10 @@ def zadanie_domowe():
                 print("Lista jest pusta.")
         elif wybor == '3':
             lista.sort()
-            print("Lista w kolejnosci rosnacej.")
+            print("Lista posortowana w kolejnosci rosnacej.")
         elif wybor == '4':
             lista.reverse()
-            print("Lista w kolejnosci malejacej")
+            print("Lista posortowana w kolejnosci malejacej")
         elif wybor == '5':
             break
         else:
